@@ -1,8 +1,8 @@
-## Portfolio
+## Andrew  Portfolio
 
 ---
 
-### Category Name 1 
+### My portfolio
 
 [Project 1: Ripped Text Effect](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
