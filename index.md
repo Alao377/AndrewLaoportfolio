@@ -2,7 +2,7 @@
 
 ---
 
-### My portfolio
+### Graphic Design Project
 
 [Project 1: Ripped Text Effect](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
