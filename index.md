@@ -12,8 +12,8 @@
 <img src="images/HULK.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Cool effects  ](http://example.com/)
+<img src="images/black panther.jpg?raw=true"/>
 
 ---
 
