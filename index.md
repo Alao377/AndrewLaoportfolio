@@ -4,8 +4,8 @@
 
 ### Graphic Design Project
 
-[Project 1: Ripped Text Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1: Grafiti Project](/sample_page)
+<img src="images/Untitled.jpg?raw=true"/>
 
 ---
 [Project 2:Galexy Cat](/pdf/sample_presentation.pdf)
