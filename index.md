@@ -12,8 +12,8 @@
 <img src="images/HULK.jpg?raw=true"/>
 
 ---
-[Project 3: Cool effects  ](http://example.com/)
-<img src="images/black panther.jpg?raw=true"/>
+[Project 3: exposure effects  ](http://example.com/)
+<img src="images/black Panther.jpg?raw=true"/>
 
 ---
 
