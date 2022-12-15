@@ -34,7 +34,7 @@
 
 
 
-### Category Name 2
+### My Webdesign Project.
 
 - [Project 1 tell a story](https://trinket.io/library/trinkets/copy/f6f4e48732)
 - [Project 2 Celebrity project or tell a story](https://trinket.io/library/trinkets/copy/2962f8b557)
@@ -44,7 +44,9 @@
 
 ---
 
+### My Midterm Project
 
+-[My MIdterm Project - Coaching By Drew](
 
 
 ---
