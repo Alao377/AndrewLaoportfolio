@@ -29,7 +29,7 @@
 
 ### Category Name 2
 
-- [Project 1 About Me](http://example.com/)
+- [Project 1 About Me](http://example.com/(https://trinket.io/library/trinkets/copy/1adf78ee4e))
 - [Project 2 Celebrity project or tell a story](https://trinket.io/library/trinkets/copy/2962f8b557)
 - [Project 3 Animation - moon rotating Earth](https://trinket.io/library/trinkets/copy/1adf78ee4e)
 - [Project 4 Title](http://example.com/)
