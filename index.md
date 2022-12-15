@@ -40,7 +40,7 @@
 - [Project 2 Celebrity project or tell a story](https://trinket.io/library/trinkets/copy/2962f8b557)
 - [Project 3 Animation - moon rotating Earth](https://trinket.io/library/trinkets/copy/1adf78ee4e)
 - [Project 4 stickers!](https://trinket.io/library/trinkets/copy/18192d815f)
-- [Project 5 Title](https://trinket.io/library/trinkets/copy/5c25ba07c8)
+- [Project 5 ROBOTROBOTROBOT](https://trinket.io/library/trinkets/copy/5c25ba07c8)
 
 ---
 
